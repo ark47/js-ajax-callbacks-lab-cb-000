@@ -40,5 +40,7 @@ $(document).ready(function (){
         displayError()
       })
   }
+
+  searchRepositories();
   
 });
